@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 helouu, eu sou o Felipe
 
-<!--
-**FelipeMio/FelipeMio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em evolução  
+🚀 Aprendendo na prática todos os dias  
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- C/C#
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Objetivo atual
+- Criar projetos reais
+- Evoluir como desenvolvedor
+- Manter constância
