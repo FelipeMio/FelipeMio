@@ -2,7 +2,7 @@
 ## 👋 Oii, eu sou o Felipe
 
 💻 Desenvolvedor em evolução | 📍 ADS
-🚀 Aprendendo na prática todos os dias  
+🚀 A procura de conhecimento   
 
 ###
 <picture>
