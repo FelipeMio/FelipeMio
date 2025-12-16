@@ -1,4 +1,4 @@
-## 👋 helouu, eu sou o Felipe
+## 👋 Oii, eu sou o Felipe
 
 💻 Desenvolvedor em evolução  
 🚀 Aprendendo na prática todos os dias  
