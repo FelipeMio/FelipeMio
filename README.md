@@ -1,7 +1,9 @@
+
 ## 👋 Oii, eu sou o Felipe
 
-💻 Desenvolvedor em evolução  
+💻 Desenvolvedor em evolução | 📍 ADS
 🚀 Aprendendo na prática todos os dias  
+
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeMio/FelipeMio/output/pacman-contribution-graph-dark.svg">
@@ -10,15 +12,10 @@
 </picture>
 
 ### 🛠️ Tecnologias
-- HTML
-- CSS
 - JavaScript
-- Git & GitHub
 - C/C#
 - Python
+- Git & GitHub
+- HTML
 
-### 🎯 Objetivo atual
-- Criar projetos reais
-- Evoluir como desenvolvedor
-- Manter constância
 
