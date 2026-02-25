@@ -12,10 +12,10 @@
 </picture>
 
 ### 🛠️ Tecnologias
-- JavaScript
-- C/C#
 - Python
-- Git & GitHub
 - HTML
+- C/C#
+- Git & GitHub
+
 
 
