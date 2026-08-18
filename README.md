@@ -14,7 +14,7 @@
 ### 🛠️ Tecnologias
 - Python
 - HTML
-- C/C#
+- C#
 - Git & GitHub
 
 
