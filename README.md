@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Estudante de **Engenharia da Computação**.
 
@@ -22,7 +22,7 @@ Build → Test → Adjust → Repeat
 
 ---
 
-## 🕹️ GitHub em movimento
+##  GitHub em movimento
 
 <div align="center">
 
@@ -36,17 +36,17 @@ Build → Test → Adjust → Repeat
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [🤖 MARVIN](https://github.com/FelipeMio/Assistente-virtual-MARVIN) | Assistente virtual para Windows | Python • SQLite |
-| [🖨️ Print Cost 3D](https://github.com/FelipeMio/print-cost-3d-calculator) | Calculadora de custos para impressão 3D | React • TypeScript |
-| [⚙️ Ender 5 Pro](https://github.com/FelipeMio/Ender-5-Pro-Marlin) | Firmware personalizado para minha Ender 5 Pro | Marlin • STM32 • PlatformIO |
+| [ MARVIN](https://github.com/FelipeMio/Assistente-virtual-MARVIN) | Assistente virtual para Windows | Python • SQLite |
+| [ Print Cost 3D](https://github.com/FelipeMio/print-cost-3d-calculator) | Calculadora de custos para impressão 3D | React • TypeScript |
+| [ Ender 5 Pro](https://github.com/FelipeMio/Ender-5-Pro-Marlin) | Firmware personalizado para minha Ender 5 Pro | Marlin • STM32 • PlatformIO |
 
 ---
 
-## 🧩 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
