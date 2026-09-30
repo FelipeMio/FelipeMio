@@ -61,20 +61,3 @@ Build → Test → Adjust → Repeat
 
 </div>
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=FelipeMio&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA" />
-
-</div>
-
----
-
-<div align="center">
-
-** "Construindo...., uma peça de cada vez. " **
-
-</div>
