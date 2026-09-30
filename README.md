@@ -12,6 +12,7 @@
 
 ## Sobre mim
 
+
 Estudante de **Engenharia da Computação**.
 
 Gosto de criar projetos que conectam **software e hardware**, principalmente envolvendo automação, impressão 3D, eletrônica e sistemas embarcados.
