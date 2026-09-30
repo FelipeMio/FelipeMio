@@ -20,10 +20,6 @@ Gosto de criar projetos que conectam **software e hardware**, principalmente env
 Build → Test → Adjust → Repeat
 ```
 
----
-
-##  GitHub em movimento
-
 <div align="center">
 
 <picture>
