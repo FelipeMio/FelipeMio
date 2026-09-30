@@ -28,33 +28,64 @@ interesses:
   - Impressão 3D
   - Eletrônica
   - Sistemas Embarcados
-
-gosto_de:
-  - Criar projetos do zero
-  - Misturar software e hardware
-  - Automatizar tarefas
-  - Modificar e construir máquinas
-  - Aprender novas tecnologias
 ```
 
 Gosto principalmente de projetos em que **software e hardware se encontram**.
 
-Meu objetivo não é apenas aprender linguagens ou ferramentas isoladamente, mas usar tecnologia para construir coisas reais — desde aplicações desktop e sistemas web até firmware, automação e projetos relacionados a impressão 3D.
+---
+
+## 🕹️ Meu GitHub em movimento
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeMio/FelipeMio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeMio/FelipeMio/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/FelipeMio/FelipeMio/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 ---
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-
 ### 🤖 [MARVIN — Assistente Virtual](https://github.com/FelipeMio/Assistente-virtual-MARVIN)
 
-Assistente virtual para Windows desenvolvido em **Python**, criado para ajudar na organização e produtividade do dia a dia.
+Assistente virtual para Windows desenvolvido em **Python**.
 
 `Python` • `SQLite` • `Desktop` • `Automação`
 
-<br>
-
 ### 🖨️ [Print Cost 3D Calculator](https://github.com/FelipeMio/print-cost-3d-calculator)
 
-Aplicação web criada para calcular custos de impressão 3D considerando materiais, impressoras e
+Aplicação web para cálculo de custos de impressão 3D.
+
+`React` • `TypeScript` • `Vite`
+
+### ⚙️ [Ender 5 Pro — Custom Marlin](https://github.com/FelipeMio/Ender-5-Pro-Marlin)
+
+Configuração personalizada do firmware **Marlin**.
+
+`Marlin` • `STM32` • `PlatformIO`
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,react,cs,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeMio&show_icons=true&hide_border=true&theme=transparent&title_color=60a5fa&icon_color=60a5fa&text_color=94a3b8" />
+
+</div>
+
+<h
