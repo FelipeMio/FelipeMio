@@ -70,22 +70,20 @@ Configuração personalizada do firmware **Marlin**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,react,cs,html,css,git,github,vscode" />
+### 💻 Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=python,github,vscode" />
+
+<br><br>
+
+### 🖨️ Impressão 3D & Firmware
+
+<img src="https://img.shields.io/badge/Marlin-Firmware-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OrcaSlicer-Slicing-1E88E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ultimaker%20Cura-Slicing-196EF0?style=for-the-badge&logo=ultimaker&logoColor=white" />
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeMio&show_icons=true&hide_border=true&theme=transparent&title_color=60a5fa&icon_color=60a5fa&text_color=94a3b8" />
-
-</div>
-
-<h
