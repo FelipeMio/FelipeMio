@@ -75,6 +75,6 @@ Build → Test → Adjust → Repeat
 
 <div align="center">
 
-**Construindo ideias, uma peça de cada vez. 🧱**
+** "Construindo...., uma peça de cada vez. " **
 
 </div>
